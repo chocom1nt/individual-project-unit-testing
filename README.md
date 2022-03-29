@@ -14,9 +14,8 @@
 ---
 ## Какие задачи рассматриваются?
 
-* [Human Readable Time](https://github.com/chocom1nt/individual-project-unit-testing/blob/main/Algorithms.Core/HumanReadableTime.cs "Решение задачи") - задача, о преобразовании заданного количества секунд в читаемую форму (*HH:MM:SS*). 
+* [Human Readable Time](https://github.com/chocom1nt/individual-project-unit-testing/blob/main/Algorithms.Core/HumanReadableTime.cs "Решение задачи") - задача, о преобразовании заданного количества секунд в читаемую форму (*HH:MM:SS*). [*[Ссылка на Codewars](https://www.codewars.com/kata/52685f7382004e774f0001f7/csharp "Human Readable Time / Kata")*]
 
-   *[Codewars](https://www.codewars.com/kata/52685f7382004e774f0001f7/csharp "Human Readable Time / Kata")*
 
 * [Sum Of Numbers](https://github.com/chocom1nt/individual-project-unit-testing/blob/main/Algorithms.Core/SumOfNumbers.cs "Решение задачи") - задача, о вычислении суммы цифр заданного числа. 
 
