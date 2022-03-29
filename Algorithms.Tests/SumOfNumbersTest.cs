@@ -33,6 +33,7 @@ namespace Algorithms.Tests
         }
 
         [Theory]
+        [InlineData(0, 0)]
         [InlineData(1, 1)]
         [InlineData(5, 5)]
         [InlineData(9, 9)]

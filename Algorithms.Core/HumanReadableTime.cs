@@ -18,8 +18,8 @@ namespace Algorithms.Core
                 throw new ArgumentException($"Переданное значение времени больше допустимого. Максимум: {maxTime}");
             }
 
-            int secondsInHour = 3600;
             int secondsInMinute = 60;
+            int secondsInHour = 60 * secondsInMinute;
 
             int hours = inputSeconds / secondsInHour;
             int minutes = inputSeconds % secondsInHour / secondsInMinute;
