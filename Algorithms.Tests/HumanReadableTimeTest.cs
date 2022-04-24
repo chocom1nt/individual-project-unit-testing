@@ -37,7 +37,7 @@ namespace Algorithms.Tests
         [InlineData(119, "00:01:59")]
         [InlineData(600, "00:10:00")]
         [InlineData(3661, "01:01:01")]
-        [InlineData(85399, "23:59:59")]
+        [InlineData(86399, "23:59:59")]
         [InlineData(86400, "24:00:00")]
         [InlineData(359999, "99:59:59")]
         public void HumanReadableTime_Theory(int seconds, string expected)
